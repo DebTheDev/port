@@ -168,7 +168,8 @@ main img {
 }
 
 img.image-enhanced {
-  border-radius: 8px;
+  flex: 1;
+  border-radius: 20%;
 }
 
 .group {
@@ -183,6 +184,7 @@ img.image-enhanced {
 
 .item-double {
   flex: 2;
+  
 }
 
 
